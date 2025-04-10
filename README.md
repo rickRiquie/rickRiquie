@@ -54,7 +54,13 @@ Atualmente, estou em busca de experiências que me permitam continuar aprendendo
   <span>Como subir uma API Node.js usando Docker em uma instância EC2 na AWS com banco MySQL.</span>
 </p>
 
-<hr style="border-color:#00F794;" />
+#
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rickRiquie/rickRiquie/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rickRiquie/rickRiquie/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rickRiquie/rickRiquie/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 
