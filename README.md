@@ -13,8 +13,8 @@ Atualmente, estou em busca de experiências que me permitam continuar aprendendo
 
 <h3 align="left">Let's Connect</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00F794&labelColor=000000)](https://www.linkedin.com/in/ricardo-amorim-8277b2276/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=00F794&labelColor=000000)](https://www.instagram.com/dinho_pini)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/ricardo-amorim-8277b2276/)
 
 <h3 align="left">Technologies</h3>
 
