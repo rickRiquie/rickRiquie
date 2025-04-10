@@ -11,13 +11,13 @@ Atualmente, estou em busca de experiências que me permitam continuar aprendendo
 
 #
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="left">Let's Connect</h3>
 
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=00F794&labelColor=000000)](mailto:ricardo.contato15@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00F794&labelColor=000000)](https://www.linkedin.com/in/ricardo-amorim-8277b2276/)
 [![GitHub](https://img.shields.io/badge/GitHub-rickRiquie?style=for-the-badge&logo=github&logoColor=00F794&color=000000&labelColor=000000)](https://github.com/rickRiquie)
 
-<h3 align="left">My Stack</h3>
+<h3 align="left">Technologies</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25" alt="nodejs logo" />
