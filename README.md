@@ -47,7 +47,7 @@ Atualmente, estou em busca de experiências que me permitam continuar aprendendo
 
 #
 
-<h3 align="left">Projetos em destaque</h3>
+<h3 align="left">Projects</h3>
 
 <p>
   🧩 <a href="https://github.com/rickRiquie/aws_node_ago24_desafio03_aws"><strong>Deploy de API utilizando serviços da AWS</strong></a><br />
