@@ -6,7 +6,7 @@
 <p>
 Sou estudante de Defesa Cibernética no Senac, porém sempre fui fascinado por códigos. Há um ano venho aprendendo sobre desenvolvimento back-end.
 Tive a oportunidade de estagiar na área e, desde então, venho me aperfeiçoando como desenvolvedor.
-Atualmente, estou em busca de experiências que me permitam continuar aprendendo e crescendo como desenvolvedor.
+Atualmente, estou em busca de experiências que me permitam continuar aprendendo e crescendo
 </p>
 
 #
